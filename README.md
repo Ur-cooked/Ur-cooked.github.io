@@ -6,8 +6,7 @@
   <body>
     <h1><center>Welcome to my website   </center></h1>
     <h3><center> I am Mushfiqul Islam   </center></h3>
-    <h4><p> I love to write so please take your time to read my 
-    writing.<br></h4>(there can be very much mistakes in my writing so consider )
+    <h4><p> I love to write so please take your time to read my writing.<br></h4>(there can be very much mistakes in my writing so consider )
     </p>
     <br>
     <h4><p>The time I writing about this is in my life's important part <br>
